@@ -32,7 +32,7 @@ Explore all benchmark results, interactive charts, and multi-currency cost calcu
 ---
 
 ##  System Architecture 
-## 🏛️ System Architecture 
+
 
 
 
