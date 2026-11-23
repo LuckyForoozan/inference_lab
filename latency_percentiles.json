@@ -1,0 +1,18 @@
+{
+  "total_requests": 40,
+  "concurrency": 8,
+  "ttft_seconds": {
+    "mean": 0.057,
+    "p50": 0.052,
+    "p90": 0.068,
+    "p95": 0.093,
+    "p99": 0.096
+  },
+  "total_latency_seconds": {
+    "mean": 0.808,
+    "p50": 0.936,
+    "p90": 1.327,
+    "p95": 1.331,
+    "p99": 1.34
+  }
+}

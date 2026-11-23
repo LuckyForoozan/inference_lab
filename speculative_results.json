@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Baseline (No Speculation)",
+    "tokens_per_s": 64.8,
+    "latency_s": 0.488
+  },
+  {
+    "name": "Speculative Decoding (0.5B Draft)",
+    "tokens_per_s": 60.7,
+    "latency_s": 0.521
+  }
+]

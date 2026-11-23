@@ -1,0 +1,162 @@
+[
+  {
+    "prompt": "What is the capital of France?",
+    "expected": "Paris",
+    "answer": "Paris.",
+    "correct": true,
+    "latency": 2.67,
+    "tokens": 3
+  },
+  {
+    "prompt": "What is 12 * 8?",
+    "expected": "96",
+    "answer": "12 * 8 = 96",
+    "correct": true,
+    "latency": 0.6,
+    "tokens": 10
+  },
+  {
+    "prompt": "Who wrote Romeo and Juliet?",
+    "expected": "Shakespeare",
+    "answer": "William Shakespeare wrote Romeo and Juliet.",
+    "correct": true,
+    "latency": 0.5,
+    "tokens": 8
+  },
+  {
+    "prompt": "What is the chemical symbol for water?",
+    "expected": "H2O",
+    "answer": "The chemical symbol for water is H2O.",
+    "correct": true,
+    "latency": 0.61,
+    "tokens": 11
+  },
+  {
+    "prompt": "What is the largest planet in our solar system?",
+    "expected": "Jupiter",
+    "answer": "The largest planet in our solar system is Jupiter.",
+    "correct": true,
+    "latency": 0.61,
+    "tokens": 11
+  },
+  {
+    "prompt": "What is the capital of Japan?",
+    "expected": "Tokyo",
+    "answer": "Tokyo.",
+    "correct": true,
+    "latency": 0.33,
+    "tokens": 4
+  },
+  {
+    "prompt": "What is 15 + 27?",
+    "expected": "42",
+    "answer": "15 + 27 = 42",
+    "correct": true,
+    "latency": 0.58,
+    "tokens": 11
+  },
+  {
+    "prompt": "Who painted the Mona Lisa?",
+    "expected": "Leonardo",
+    "answer": "Leonardo da Vinci painted the Mona Lisa.",
+    "correct": true,
+    "latency": 0.55,
+    "tokens": 10
+  },
+  {
+    "prompt": "What is the square root of 81?",
+    "expected": "9",
+    "answer": "The square root of 81 is 9.",
+    "correct": true,
+    "latency": 0.63,
+    "tokens": 12
+  },
+  {
+    "prompt": "What gas do plants absorb from the air?",
+    "expected": "carbon dioxide",
+    "answer": "Plants absorb carbon dioxide from the air.",
+    "correct": true,
+    "latency": 0.41,
+    "tokens": 10
+  },
+  {
+    "prompt": "What is the capital of Italy?",
+    "expected": "Rome",
+    "answer": "The capital of Italy is Rome.",
+    "correct": true,
+    "latency": 0.48,
+    "tokens": 8
+  },
+  {
+    "prompt": "How many days are in a week?",
+    "expected": "7",
+    "answer": "There are 7 days in a week.",
+    "correct": true,
+    "latency": 0.4,
+    "tokens": 10
+  },
+  {
+    "prompt": "What is the boiling point of water in Celsius?",
+    "expected": "100",
+    "answer": "100\u00b0C",
+    "correct": true,
+    "latency": 0.37,
+    "tokens": 5
+  },
+  {
+    "prompt": "Who discovered gravity after seeing an apple fall?",
+    "expected": "Newton",
+    "answer": "Sir Isaac Newton discovered gravity after observing an apple fall from a tree.",
+    "correct": true,
+    "latency": 0.57,
+    "tokens": 15
+  },
+  {
+    "prompt": "What is the capital of Germany?",
+    "expected": "Berlin",
+    "answer": "Berlin.",
+    "correct": true,
+    "latency": 0.3,
+    "tokens": 3
+  },
+  {
+    "prompt": "What is 9 * 7?",
+    "expected": "63",
+    "answer": "9 * 7 = 63",
+    "correct": true,
+    "latency": 0.51,
+    "tokens": 9
+  },
+  {
+    "prompt": "What is the smallest prime number?",
+    "expected": "2",
+    "answer": "The smallest prime number is 2.",
+    "correct": true,
+    "latency": 0.53,
+    "tokens": 9
+  },
+  {
+    "prompt": "Which planet is known as the Red Planet?",
+    "expected": "Mars",
+    "answer": "Mars is known as the Red Planet.",
+    "correct": true,
+    "latency": 0.52,
+    "tokens": 10
+  },
+  {
+    "prompt": "What language is primarily spoken in Brazil?",
+    "expected": "Portuguese",
+    "answer": "Portuguese is primarily spoken in Brazil.",
+    "correct": true,
+    "latency": 0.48,
+    "tokens": 10
+  },
+  {
+    "prompt": "What is the chemical symbol for gold?",
+    "expected": "Au",
+    "answer": "The chemical symbol for gold is Au.",
+    "correct": true,
+    "latency": 0.53,
+    "tokens": 9
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "prefix_caching": false,
+    "first_request_ttft_s": 2.324,
+    "avg_ttft_after_first_s": 1.135
+  },
+  {
+    "prefix_caching": true,
+    "first_request_ttft_s": 1.289,
+    "avg_ttft_after_first_s": 0.06
+  }
+]

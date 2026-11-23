@@ -1,0 +1,32 @@
+[
+  {
+    "concurrency": 1,
+    "total_time_s": 9.66,
+    "avg_latency_s": 0.24,
+    "tokens_per_s": 128.4
+  },
+  {
+    "concurrency": 4,
+    "total_time_s": 3.05,
+    "avg_latency_s": 0.3,
+    "tokens_per_s": 406.3
+  },
+  {
+    "concurrency": 8,
+    "total_time_s": 1.64,
+    "avg_latency_s": 0.32,
+    "tokens_per_s": 758.4
+  },
+  {
+    "concurrency": 16,
+    "total_time_s": 1.17,
+    "avg_latency_s": 0.41,
+    "tokens_per_s": 1078.6
+  },
+  {
+    "concurrency": 32,
+    "total_time_s": 0.99,
+    "avg_latency_s": 0.6,
+    "tokens_per_s": 1267.8
+  }
+]

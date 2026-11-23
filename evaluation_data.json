@@ -1,0 +1,22 @@
+[
+  {"prompt": "What is the capital of France?", "expected": "Paris"},
+  {"prompt": "What is 12 * 8?", "expected": "96"},
+  {"prompt": "Who wrote Romeo and Juliet?", "expected": "Shakespeare"},
+  {"prompt": "What is the chemical symbol for water?", "expected": "H2O"},
+  {"prompt": "What is the largest planet in our solar system?", "expected": "Jupiter"},
+  {"prompt": "What is the capital of Japan?", "expected": "Tokyo"},
+  {"prompt": "What is 15 + 27?", "expected": "42"},
+  {"prompt": "Who painted the Mona Lisa?", "expected": "Leonardo"},
+  {"prompt": "What is the square root of 81?", "expected": "9"},
+  {"prompt": "What gas do plants absorb from the air?", "expected": "carbon dioxide"},
+  {"prompt": "What is the capital of Italy?", "expected": "Rome"},
+  {"prompt": "How many days are in a week?", "expected": "7"},
+  {"prompt": "What is the boiling point of water in Celsius?", "expected": "100"},
+  {"prompt": "Who discovered gravity after seeing an apple fall?", "expected": "Newton"},
+  {"prompt": "What is the capital of Germany?", "expected": "Berlin"},
+  {"prompt": "What is 9 * 7?", "expected": "63"},
+  {"prompt": "What is the smallest prime number?", "expected": "2"},
+  {"prompt": "Which planet is known as the Red Planet?", "expected": "Mars"},
+  {"prompt": "What language is primarily spoken in Brazil?", "expected": "Portuguese"},
+  {"prompt": "What is the chemical symbol for gold?", "expected": "Au"}
+]
