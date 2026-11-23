@@ -32,7 +32,7 @@ Explore all benchmark results, interactive charts, and multi-currency cost calcu
 ---
 
 ##  System Architecture 
-
+<img width="1400" height="1950" alt="architecture_diagram" src="https://github.com/user-attachments/assets/008a35df-adb6-4413-b51a-d61b0d8564a1" />
 
 
 
